@@ -10,7 +10,7 @@ export default function LocalEmulator() {
       </Head>
 
       <main>
-        <Form table="local_emulator" title="Local Emulator" />
+        <Form table="local_emulator" title="Supabase Local Emulator Ships" />
       </main>
     </div>
   );

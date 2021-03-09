@@ -33,7 +33,7 @@ export default function Home() {
                 <Button>Get Notified When Fuctions Are Ready</Button>
               </a>
             </Link>
-            <Link href="/subscription/benchmark">
+            <Link href="/subscription/benchmarks">
               <a className="m-2">
                 <Button>Get Notified When Benchmark is Ready</Button>
               </a>

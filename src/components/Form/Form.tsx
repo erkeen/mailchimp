@@ -55,7 +55,7 @@ export default function Form(props) {
             alt="SupabaseLogo"
           />
           <h2 className="mt-6 text-center text-3xl font-extrabold dark:text-gray-200 text-gray-900">
-            Get Notified When <br/> {props.title} Is Ready
+            Get Notified When <br/> {props.title}
           </h2>
         </div>
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>

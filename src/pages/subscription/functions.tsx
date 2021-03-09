@@ -10,7 +10,7 @@ export default function Functions() {
       </Head>
 
       <main>
-        <Form table="functions_emails" title="Functions" />
+        <Form table="functions_emails" title="Functions Are Ready" />
       </main>
     </div>
   );

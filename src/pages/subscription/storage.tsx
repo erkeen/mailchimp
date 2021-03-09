@@ -10,7 +10,7 @@ export default function Storage() {
       </Head>
 
       <main>
-        <Form table="storage_emails" title="Storage" />
+        <Form table="storage_emails" title="Storage Is Ready" />
       </main>
     </div>
   );

@@ -10,7 +10,7 @@ export default function CommandLine() {
       </Head>
 
       <main>
-        <Form table="command_line" title="Command Line Interface" />
+        <Form table="command_line" title="Command Line Interface Ships" />
       </main>
     </div>
   );

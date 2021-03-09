@@ -10,7 +10,7 @@ export default function Benchmark() {
       </Head>
 
       <main>
-        <Form table="benchmark" title="Benchmark" />
+        <Form table="benchmark" title="Enterprise Benchmarks Are Ready" />
       </main>
     </div>
   );
