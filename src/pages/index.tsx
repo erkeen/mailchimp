@@ -33,6 +33,21 @@ export default function Home() {
                 <Button>Get Notified When Fuctions Are Ready</Button>
               </a>
             </Link>
+            <Link href="/subscription/benchmark">
+              <a className="m-2">
+                <Button>Get Notified When Benchmark is Ready</Button>
+              </a>
+            </Link>
+            <Link href="/subscription/localEmulator">
+              <a className="m-2">
+                <Button>Get Notified When Local Emulator is Ready</Button>
+              </a>
+            </Link>
+            <Link href="/subscription/commandLine">
+              <a className="m-2">
+                <Button>Get Notified When CLI is Ready</Button>
+              </a>
+            </Link>
           </div>
         </div>
       </main>

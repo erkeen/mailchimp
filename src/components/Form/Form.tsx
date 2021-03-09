@@ -1,6 +1,5 @@
 import { useState } from "react";
 import useInput from "../../hooks/useInput";
-import { supabase } from "../../utils/supabaseClient";
 import Button from "../Button/Button";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -56,7 +55,7 @@ export default function Form(props) {
             alt="SupabaseLogo"
           />
           <h2 className="mt-6 text-center text-3xl font-extrabold dark:text-gray-200 text-gray-900">
-            Get Notified When {props.title} Is Ready
+            Get Notified When <br/> {props.title} Is Ready
           </h2>
         </div>
         <form className="mt-8 space-y-6" onSubmit={handleSubmit}>
