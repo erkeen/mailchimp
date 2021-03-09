@@ -33,9 +33,9 @@ export default function Home() {
                 <Button>Get Notified When Fuctions Are Ready</Button>
               </a>
             </Link>
-            <Link href="/subscription/benchmarks">
+            <Link href="/subscription/enterpriseBenchmarks">
               <a className="m-2">
-                <Button>Get Notified When Benchmark is Ready</Button>
+                <Button>Get Notified When Enterprise Benchmark is Ready</Button>
               </a>
             </Link>
             <Link href="/subscription/localEmulator">
